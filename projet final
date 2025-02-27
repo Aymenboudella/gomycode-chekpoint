@@ -10,9 +10,9 @@
 
 (Maximum 3 students)
 
-| Name  | Email                   | GitHub Profile |
-| ----- | ----------------------- | -------------- |
-| aymen | aymenboudella@gmail.com |                |
+| Name  | Email                   | GitHub Profile                   |
+| ----- | ----------------------- | -------------------------------- |
+| aymen | aymenboudella@gmail.com | https://github.com/Aymenboudella |
 
 ## **3. Selected Theme**
 
@@ -36,11 +36,10 @@ _(List all the key features your project will include)_
 - Admin dashboard for managing users bookings and car listings
 
 ### **Backend Features**
-- Customer Can register log in update profile view car listings and     manage bookings
+
+- Customer Can register log in update profile view car listings and manage bookings
 - Admin Can manage cars reservations users and generate reports
 - Reservation system to manage bookings and availability
-- data api for managing rentals
-- data api for managing cars announcements
 
 ### **Additional Features (if any)**
 
@@ -63,8 +62,8 @@ _(Outline your estimated timeline for completing each major part of the project)
 | Milestone             | Expected Completion Date |
 | --------------------- | ------------------------ |
 | Project Setup         | 2 march 2025             |
-| Backend Development   | 9 march 2025            |
-| Frontend Development  | 23 march 2025             |
+| Backend Development   | 9 march 2025             |
+| Frontend Development  | 23 march 2025            |
 | Integration & Testing | 28 march 2025            |
 | Final Deployment      | 29 march 2025            |
 
