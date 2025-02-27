@@ -1,0 +1,74 @@
+# **Full-Stack MERN Final Project Specification Document**
+
+## **1. Project Overview**
+
+- **Project Name:** Website car rental
+- **Short Description:** _(Briefly describe what your project does)_  
+  Website car rental is an e-commerce platform that allows users to rent cars online Users can filter vehicles based on their preference and manage their reservations directly through the site The platform also allows car owners to list their vehicles for rent
+
+## **2. Group Members**
+
+(Maximum 3 students)
+
+| Name  | Email                   | GitHub Profile |
+| ----- | ----------------------- | -------------- |
+| aymen | aymenboudella@gmail.com |                |
+
+## **3. Selected Theme**
+
+_(Choose one by marking an "X")_
+
+- [ ] **Task Management Application**
+- [ ] **E-Commerce Website**
+- [ ] **Real-time Chat Application**
+- [ ] **Book Recommendation App**
+- [x] **MERN Application**
+
+## **4. Features & Functionalities**
+
+_(List all the key features your project will include)_
+
+### **Frontend Features**
+
+- User registration and login system
+- Browse and filter cars by type price and availability
+- Car rental booking form
+- Admin dashboard for managing users bookings and car listings
+
+### **Backend Features**
+- Customer Can register log in update profile view car listings and     manage bookings
+- Admin Can manage cars reservations users and generate reports
+- Reservation system to manage bookings and availability
+- data api for managing rentals
+- data api for managing cars announcements
+
+### **Additional Features (if any)**
+
+_(E.g., payment integration, real-time notifications, third-party APIs, etc.)_  
+-Push notifications for booking confirmations and reminders
+
+## **5. Technologies Used**
+
+_(List the primary technologies you will use in your project)_
+
+- **Frontend:** Frontend: react.js, Redux, daisy ui, tailwind
+- **Backend:** Express.js
+- **Database:** MongoDB
+- **Additional Libraries/Tools:**
+
+## **6. Project Milestones & Timeline**
+
+_(Outline your estimated timeline for completing each major part of the project)_
+
+| Milestone             | Expected Completion Date |
+| --------------------- | ------------------------ |
+| Project Setup         | 2 march 2025             |
+| Backend Development   | 9 march 2025            |
+| Frontend Development  | 23 march 2025             |
+| Integration & Testing | 28 march 2025            |
+| Final Deployment      | 29 march 2025            |
+
+## **7. Additional Notes**
+
+_(Any extra information about the project)_  
+The platform will prioritize user experience by providing an intuitive interface easy navigation and secure payment processing
